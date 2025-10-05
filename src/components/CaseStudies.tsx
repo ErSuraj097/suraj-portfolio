@@ -191,7 +191,7 @@ const CaseStudies = () => {
           </Link>
         </motion.div>
       </div>
-      </div>
+      {/* </div> */}
     </section>
   );
 };
